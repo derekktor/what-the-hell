@@ -10,3 +10,5 @@
 1. follow markdown tutorial
 1. send ***project*** to teacher
 1. ask teacher for advice
+
+*just messing around*
