@@ -10,3 +10,5 @@ Markdown is a markup language that basically makes the document easier to read f
 Markup language is a programming paradigm where certain syntaxes that the computer can read is not displayed but helps the remaining text to be emphasized
 HTML is hypertext markup language so head, body, div, and table do not appear on the screen but helps the data entered within them appear in a more coherent way
 And at the top of the text, you see header followed by hashtag, which makes the following text appear bigger and in bold font style
+
+btw, that extended optional description for commit message doesn't appear on the main menu
