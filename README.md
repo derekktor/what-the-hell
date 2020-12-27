@@ -29,3 +29,5 @@ just seeing if I could improve my commit messages
 11. create a github page
 12. send/share the homework with teacher
 13. ask teacher for advice, career-wise
+
+trying to see that red color line
