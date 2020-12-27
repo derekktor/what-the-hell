@@ -32,3 +32,8 @@ just seeing if I could improve my commit messages
 
 so I deleted the line and placed this instead
 and added this text on line 34
+
+**colors in commit history**
+>red is for lines removed
+>green is lines added
+>white is for lines stayed the same
