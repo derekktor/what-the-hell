@@ -12,3 +12,5 @@ HTML is hypertext markup language so head, body, div, and table do not appear on
 And at the top of the text, you see header followed by hashtag, which makes the following text appear bigger and in bold font style
 
 btw, that extended optional description for commit message doesn't appear on the main menu
+
+just seeing if I could improve my commit messages
