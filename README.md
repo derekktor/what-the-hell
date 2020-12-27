@@ -43,3 +43,5 @@ to add line breaks, you can use _backslash_, or _line break_, or _double space_
 
 #### git from CLI
 well nothing fancy, only repeating shit from code editor
+in one book it was written that working git from CLI has more options than GUI
+however, it is much more difficult to understand tho
