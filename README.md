@@ -38,5 +38,5 @@ and added this text on line 34
 >green is lines added\
 >white is for lines stayed the same
 
-**line breaks in quote mode**
+**line breaks in quote mode**\
 to add line breaks, you can use _backslash_ \, or _line break_ <br/>, or _double space_
