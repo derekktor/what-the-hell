@@ -30,4 +30,5 @@ just seeing if I could improve my commit messages
 12. send/share the homework with teacher
 13. ask teacher for advice, career-wise
 
-trying to see that red color line
+so I deleted the line and placed this instead
+and added this text on line 34
