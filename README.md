@@ -34,6 +34,9 @@ so I deleted the line and placed this instead
 and added this text on line 34
 
 **colors in commit history**
->red is for lines removed
->green is lines added
+>red is for lines removed\
+>green is lines added\
 >white is for lines stayed the same
+
+**line breaks in quote mode**
+to add line breaks, you can use _backslash_ \, or _line break_ <br/>, or _double space_
