@@ -45,3 +45,8 @@ to add line breaks, you can use _backslash_, or _line break_, or _double space_
 well nothing fancy, only repeating shit from code editor
 in one book it was written that working git from CLI has more options than GUI
 however, it is much more difficult to understand tho
+
+#### VS sidebar and git
+just noticed that whenever certain file is changed but not committed has different symbols on the left\
+aight, nevermind, it was **only** on her computer\
+I don't know what is that called, guessing slider, or theme or aydunno
