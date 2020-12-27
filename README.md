@@ -39,4 +39,4 @@ and added this text on line 34
 >white is for lines stayed the same
 
 **line breaks in quote mode**\
-to add line breaks, you can use _backslash_ \, or _line break_ <br/>, or _double space_
+to add line breaks, you can use _backslash_, or _line break_, or _double space_
