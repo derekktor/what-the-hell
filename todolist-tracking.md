@@ -1,7 +1,7 @@
 ### Tracking current goals
 
 1. understand 7 sets of exercises
-    - ---get introduced to Visual Studio---
+    - <del>get introduced to Visual Studio</del>
     - follow Git tutorial vid
 1. choose IT tool
 1. write a raw draft outline on the *chosen tool*
