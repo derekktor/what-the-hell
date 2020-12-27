@@ -14,3 +14,18 @@ And at the top of the text, you see header followed by hashtag, which makes the 
 btw, that extended optional description for commit message doesn't appear on the main menu
 
 just seeing if I could improve my commit messages
+
+
+1. translate and understand seven sets of exercises
+2. understand how git works
+3. watch and participate, i mean, process deeply the tutorial of git
+4. quickly go over other IT tools
+5. follow another Latex tutorial vid and participate
+6. pick topic
+7. get the outline of the presentation on the chosen topic on paper
+8. convert the note onto Overleaf
+9. learn how to create github page
+10. briefly get informed with markdown language
+11. create a github page
+12. send/share the homework with teacher
+13. ask teacher for advice, career-wise
